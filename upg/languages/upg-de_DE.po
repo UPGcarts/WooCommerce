@@ -1,0 +1,863 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hosted Payments for WooCommerce\n"
+"POT-Creation-Date: 2016-06-08 16:16+0100\n"
+"PO-Revision-Date: 2016-06-08 16:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: class-wc-gateway-hostedPayments.php\n"
+"X-Poedit-SearchPath-2: upg.php\n"
+"X-Poedit-SearchPath-3: includes\n"
+
+#: class-wc-gateway-hostedPayments.php:55
+msgid "Gender"
+msgstr "Gender"
+
+#: class-wc-gateway-hostedPayments.php:60
+msgid "Male"
+msgstr "Male"
+
+#: class-wc-gateway-hostedPayments.php:61
+msgid "Female"
+msgstr "Female"
+
+#: class-wc-gateway-hostedPayments.php:88
+msgid "Company Register Type"
+msgstr "Company Register Type"
+
+#: class-wc-gateway-hostedPayments.php:93
+msgid "Please select"
+msgstr "Please select"
+
+#: class-wc-gateway-hostedPayments.php:94
+msgid "German trade register department A"
+msgstr "German trade register department A"
+
+#: class-wc-gateway-hostedPayments.php:96
+msgid "German trade register department B"
+msgstr "German trade register department B"
+
+#: class-wc-gateway-hostedPayments.php:98
+#: class-wc-gateway-hostedPayments.php:100
+msgid "German partnership register"
+msgstr "German partnership register"
+
+#: class-wc-gateway-hostedPayments.php:102
+msgid "German register of associations"
+msgstr "German register of associations"
+
+#: class-wc-gateway-hostedPayments.php:104
+msgid "Austrian commercial register"
+msgstr "Austrian commercial register"
+
+#: class-wc-gateway-hostedPayments.php:106
+msgid "Luxembourg trade registry A"
+msgstr "Luxembourg trade registry A"
+
+#: class-wc-gateway-hostedPayments.php:108
+msgid "Luxembourg trade registry B"
+msgstr "Luxembourg trade registry B"
+
+#: class-wc-gateway-hostedPayments.php:110
+msgid "Luxembourg trade registry C"
+msgstr "Luxembourg trade registry C"
+
+#: class-wc-gateway-hostedPayments.php:112
+msgid "Luxembourg trade registry D"
+msgstr "Luxembourg trade registry D"
+
+#: class-wc-gateway-hostedPayments.php:114
+msgid "Luxembourg trade registry E"
+msgstr "Luxembourg trade registry E"
+
+#: class-wc-gateway-hostedPayments.php:116
+msgid "Luxembourg trade registry F"
+msgstr "Luxembourg trade registry F"
+
+#: class-wc-gateway-hostedPayments.php:240
+msgid "Invalid request."
+msgstr "Invalid request."
+
+#: class-wc-gateway-hostedPayments.php:242
+msgid "There was an issue with your payment please contact the merchant"
+msgstr "There was an issue with your payment please contact the merchant"
+
+#: class-wc-gateway-hostedPayments.php:480
+msgid "Discount"
+msgstr "Discount"
+
+#: includes/class-wc-gateway-upg-admin-order-metabox.php:46
+msgid "Payment Details"
+msgstr "Payment Details"
+
+#: includes/class-wc-gateway-upg-admin-order-metabox.php:47
+msgid " Payment Captures"
+msgstr " Payment Captures"
+
+#: includes/class-wc-gateway-upg-admin-order-metabox.php:48
+msgid " Payment Refunds"
+msgstr " Payment Refunds"
+
+#: includes/class-wc-gateway-upg-admin-order-metabox.php:49
+msgid " API"
+msgstr " API"
+
+#: includes/class-wc-gateway-upg-callback-processor.php:94
+msgid "Invalid callback."
+msgstr "Invalid callback."
+
+#: includes/class-wc-gateway-upg-callback.php:55
+msgid "Callback could not be validated"
+msgstr "Callback could not be validated"
+
+#: includes/class-wc-gateway-upg-callback.php:60
+msgid "System issue with payment."
+msgstr "System issue with payment."
+
+#: includes/class-wc-gateway-upg-helper.php:55
+msgid "Direct Debit"
+msgstr "Direct Debit"
+
+#: includes/class-wc-gateway-upg-helper.php:58
+msgid "Credit Card"
+msgstr "Credit Card"
+
+#: includes/class-wc-gateway-upg-helper.php:61
+msgid "Credit Card With 3D Secure"
+msgstr "Credit Card With 3D Secure"
+
+#: includes/class-wc-gateway-upg-helper.php:64
+msgid "Cash in Advance"
+msgstr "Cash in Advance"
+
+#: includes/class-wc-gateway-upg-helper.php:67
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/class-wc-gateway-upg-helper.php:70
+msgid "Sofortüberweisung"
+msgstr "Sofortüberweisung"
+
+#: includes/class-wc-gateway-upg-helper.php:73
+msgid "Bill Payment without Payment Guarantee"
+msgstr "Bill Payment without Payment Guarantee"
+
+#: includes/class-wc-gateway-upg-helper.php:76
+msgid "Bill Payment with Payment Guarantee"
+msgstr "Bill Payment with Payment Guarantee"
+
+#: includes/class-wc-gateway-upg-helper.php:79
+msgid "Cash on delivery"
+msgstr "Cash on delivery"
+
+#: includes/class-wc-gateway-upg-helper.php:82
+msgid "Ideal"
+msgstr "Ideal"
+
+#: includes/class-wc-gateway-upg-helper.php:85
+msgid "Installment"
+msgstr "Installment"
+
+#: includes/class-wc-gateway-upg-helper.php:88
+msgid "PayCo Wallet"
+msgstr "PayCo Wallet"
+
+#: includes/class-wc-gateway-upg-helper.php:91
+msgid "Dummy"
+msgstr "Dummy"
+
+#: includes/class-wc-gateway-upg-helper.php:114
+msgid "Bank Name"
+msgstr "Bank Name"
+
+#: includes/class-wc-gateway-upg-helper.php:117
+msgid "BIC"
+msgstr "BIC"
+
+#: includes/class-wc-gateway-upg-helper.php:120
+msgid "IBAN"
+msgstr "IBAN"
+
+#: includes/class-wc-gateway-upg-helper.php:123
+msgid "Bank Account Holder"
+msgstr "Bank Account Holder"
+
+#: includes/class-wc-gateway-upg-helper.php:126
+msgid "Payment Reference"
+msgstr "Payment Reference"
+
+#: includes/class-wc-gateway-upg-helper.php:129
+msgid "SEPA Mandate"
+msgstr "SEPA Mandate"
+
+#: includes/class-wc-gateway-upg-helper.php:148
+msgid "Customer Email"
+msgstr "Customer Email"
+
+#: includes/class-wc-gateway-upg-helper.php:151
+msgid "Email"
+msgstr "Email"
+
+#: includes/class-wc-gateway-upg-helper.php:154
+msgid "Delivery Address Co"
+msgstr "Delivery Address Co"
+
+#: includes/class-wc-gateway-upg-helper.php:157
+msgid "Delivery Address Post Code"
+msgstr "Delivery Address Post Code"
+
+#: includes/class-wc-gateway-upg-helper.php:160
+msgid "Delivery Address Number"
+msgstr "Delivery Address Number"
+
+#: includes/class-wc-gateway-upg-helper.php:163
+msgid "Delivery Address Number Additional"
+msgstr "Delivery Address Number Additional"
+
+#: includes/class-wc-gateway-upg-helper.php:166
+msgid "Delivery Address City"
+msgstr "Delivery Address City"
+
+#: includes/class-wc-gateway-upg-helper.php:169
+msgid "Delivery Address State"
+msgstr "Delivery Address State"
+
+#: includes/class-wc-gateway-upg-helper.php:172
+msgid "Delivery Address Street"
+msgstr "Delivery Address Street"
+
+#: includes/class-wc-gateway-upg-helper.php:175
+msgid "Delivery Address Recipient"
+msgstr "Delivery Address Recipient"
+
+#: includes/class-wc-gateway-upg-helper.php:178
+msgid "Delivery Address Country"
+msgstr "Delivery Address Country"
+
+#: includes/class-wc-gateway-upg-helper.php:181
+msgid "Transaction Amount"
+msgstr "Transaction Amount"
+
+#: includes/class-wc-gateway-upg-helper.php:184
+msgid "Transaction Currency"
+msgstr "Transaction Currency"
+
+#: includes/class-wc-gateway-upg-helper.php:187
+msgid "Payment Method"
+msgstr "Payment Method"
+
+#: includes/class-wc-gateway-upg-metabox-api-actions.php:18
+#: includes/class-wc-gateway-upg-metabox-payment-details.php:32
+#, php-format
+msgid "Order was placed using %s"
+msgstr "Order was placed using %s"
+
+#: includes/class-wc-gateway-upg-metabox-api-actions.php:29
+msgid "Send Finish Call"
+msgstr "Send Finish Call"
+
+#: includes/class-wc-gateway-upg-metabox-api-actions.php:30
+msgid "Send Cancel Call"
+msgstr "Send Cancel Call"
+
+#: includes/class-wc-gateway-upg-metabox-api-actions.php:34
+msgid "Are you sure you want to send the finish call"
+msgstr "Are you sure you want to send the finish call"
+
+#: includes/class-wc-gateway-upg-metabox-api-actions.php:40
+msgid "Are you sure you want to send the cancel call"
+msgstr "Are you sure you want to send the cancel call"
+
+#: includes/class-wc-gateway-upg-metabox-api-actions.php:81
+msgid "Finish cancel sent"
+msgstr "Finish cancel sent"
+
+#: includes/class-wc-gateway-upg-metabox-api-actions.php:83
+#, php-format
+msgid "There was an error sending finish request : %s"
+msgstr "There was an error sending finish request : %s"
+
+#: includes/class-wc-gateway-upg-metabox-api-actions.php:103
+msgid "Cancel request sent"
+msgstr "Cancel request sent"
+
+#: includes/class-wc-gateway-upg-metabox-api-actions.php:105
+#, php-format
+msgid "There was an error sending cancel request : %s"
+msgstr "There was an error sending cancel request : %s"
+
+#: includes/class-wc-gateway-upg-metabox-capture.php:15
+#: includes/class-wc-gateway-upg-metabox-refund.php:14
+msgid "Order was not processed by Payco"
+msgstr "Order was not processed by Payco"
+
+#: includes/class-wc-gateway-upg-metabox-capture.php:20
+msgid "Capture operations can not be done in the current order state"
+msgstr "Capture operations can not be done in the current order state"
+
+#: includes/class-wc-gateway-upg-metabox-capture.php:28
+#, php-format
+msgid "Capture Amount Left: %s"
+msgstr "Capture Amount Left: %s"
+
+#: includes/class-wc-gateway-upg-metabox-capture.php:39
+msgid "Capture Amount:"
+msgstr "Capture Amount:"
+
+#: includes/class-wc-gateway-upg-metabox-capture.php:42
+msgid "Capture"
+msgstr "Capture"
+
+#: includes/class-wc-gateway-upg-metabox-capture.php:46
+msgid ""
+"As Auto-Capture was enabled no manual capture may be done until the paid "
+"notification."
+msgstr ""
+"As Auto-Capture was enabled no manual capture may be done until the paid "
+"notification."
+
+#: includes/class-wc-gateway-upg-metabox-capture.php:73
+msgid "You must provide an amount for capture."
+msgstr "You must provide an amount for capture."
+
+#: includes/class-wc-gateway-upg-metabox-capture.php:113
+#, php-format
+msgid "Captured %s"
+msgstr "Captured %s"
+
+#: includes/class-wc-gateway-upg-metabox-capture.php:117
+#: includes/class-wc-gateway-upg-metabox-refund.php:165
+#, php-format
+msgid "There was an API error : %s"
+msgstr "There was an API error : %s"
+
+#: includes/class-wc-gateway-upg-metabox-payment-details.php:44
+msgid "Order status could not be looked up"
+msgstr "Order status could not be looked up"
+
+#: includes/class-wc-gateway-upg-metabox-refund.php:33
+msgid "Capture Reference:"
+msgstr "Capture Reference:"
+
+#: includes/class-wc-gateway-upg-metabox-refund.php:35
+#: includes/class-wc-gateway-upg-metabox-refund.php:56
+msgid "Refund Amount:"
+msgstr "Refund Amount:"
+
+#: includes/class-wc-gateway-upg-metabox-refund.php:37
+#: includes/class-wc-gateway-upg-metabox-refund.php:58
+msgid "Refund Reason:"
+msgstr "Refund Reason:"
+
+#: includes/class-wc-gateway-upg-metabox-refund.php:48
+msgid "Please select an capture"
+msgstr "Please select an capture"
+
+#: includes/class-wc-gateway-upg-metabox-refund.php:61
+msgid "Refund"
+msgstr "Refund"
+
+#: includes/class-wc-gateway-upg-metabox-refund.php:64
+msgid "Order currently has no available captures to refund from"
+msgstr "Order currently has no available captures to refund from"
+
+#: includes/class-wc-gateway-upg-metabox-refund.php:103
+msgid "Please provide an refund amount."
+msgstr "Please provide an refund amount."
+
+#: includes/class-wc-gateway-upg-metabox-refund.php:109
+msgid "Please provide an capture to refund from."
+msgstr "Please provide an capture to refund from."
+
+#: includes/class-wc-gateway-upg-metabox-refund.php:115
+msgid "Please provide an reason for the refund."
+msgstr "Please provide an reason for the refund."
+
+#: includes/class-wc-gateway-upg-metabox-refund.php:160
+#, php-format
+msgid "Redunded %s"
+msgstr "Redunded %s"
+
+#: includes/class-wc-gateway-upg-payment-info.php:47
+msgid "For Direct Debt payment here are your details"
+msgstr "For Direct Debt payment here are your details"
+
+#: includes/class-wc-gateway-upg-payment-info.php:50
+msgid ""
+"For cash in advance here are the payment detail for you to pay for your order"
+msgstr ""
+"For cash in advance here are the payment detail for you to pay for your order"
+
+#: includes/class-wc-gateway-upg-payment-info.php:54
+msgid "For Billpay here are the payment detail for you to pay for your order"
+msgstr "For Billpay here are the payment detail for you to pay for your order"
+
+#: includes/class-wc-gateway-upg-riskclass.php:20
+#: includes/class-wc-gateway-upg-riskclass.php:80
+msgid "No Risk class"
+msgstr "No Risk class"
+
+#: includes/class-wc-gateway-upg-riskclass.php:21
+#: includes/class-wc-gateway-upg-riskclass.php:81
+msgid "Default"
+msgstr "Default"
+
+#: includes/class-wc-gateway-upg-riskclass.php:22
+#: includes/class-wc-gateway-upg-riskclass.php:82
+msgid "Trusted"
+msgstr "Trusted"
+
+#: includes/class-wc-gateway-upg-riskclass.php:23
+#: includes/class-wc-gateway-upg-riskclass.php:83
+msgid "High"
+msgstr "High"
+
+#: includes/class-wc-gateway-upg-riskclass.php:85
+msgid "Risk class"
+msgstr "Risk class"
+
+#: includes/settings-upg.php:9 includes/settings-upg.php:134
+msgid "Enable/Disable"
+msgstr "Enable/Disable"
+
+#: includes/settings-upg.php:11
+msgid "Enable Hosted Payments"
+msgstr "Enable Hosted Payments"
+
+#: includes/settings-upg.php:15
+msgid "Title"
+msgstr "Title"
+
+#: includes/settings-upg.php:17
+msgid "This controls the title which the user sees during checkout."
+msgstr "This controls the title which the user sees during checkout."
+
+#: includes/settings-upg.php:22
+msgid "Log Settings"
+msgstr "Log Settings"
+
+#: includes/settings-upg.php:27
+msgid "Log File Name"
+msgstr "Log File Name"
+
+#: includes/settings-upg.php:29
+msgid ""
+"Set an log file name for API requests that will be loged to the woocommerce "
+"default log path"
+msgstr ""
+"Set an log file name for API requests that will be loged to the woocommerce "
+"default log path"
+
+#: includes/settings-upg.php:35
+msgid "Log Level"
+msgstr "Log Level"
+
+#: includes/settings-upg.php:38
+msgid "Set the log level for the api."
+msgstr "Set the log level for the api."
+
+#: includes/settings-upg.php:41
+msgid "Emergency"
+msgstr "Emergency"
+
+#: includes/settings-upg.php:42
+msgid "Alert"
+msgstr "Alert"
+
+#: includes/settings-upg.php:43
+msgid "Critical"
+msgstr "Critical"
+
+#: includes/settings-upg.php:44
+msgid "Error"
+msgstr "Error"
+
+#: includes/settings-upg.php:45
+msgid "Warning"
+msgstr "Warning"
+
+#: includes/settings-upg.php:46
+msgid "Notice"
+msgstr "Notice"
+
+#: includes/settings-upg.php:47
+msgid "Info"
+msgstr "Info"
+
+#: includes/settings-upg.php:48
+msgid "Debug"
+msgstr "Debug"
+
+#: includes/settings-upg.php:52
+msgid "Merchant Settings"
+msgstr "Merchant Settings"
+
+#: includes/settings-upg.php:57
+msgid "Mode"
+msgstr "Mode"
+
+#: includes/settings-upg.php:60
+msgid "Integration Mode."
+msgstr "Integration Mode."
+
+#: includes/settings-upg.php:63
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: includes/settings-upg.php:64
+msgid "Live"
+msgstr "Live"
+
+#: includes/settings-upg.php:68 includes/settings-upg.php:70
+msgid "Enable Autocapture"
+msgstr "Enable Autocapture"
+
+#: includes/settings-upg.php:74
+msgid "Risk Class"
+msgstr "Risk Class"
+
+#: includes/settings-upg.php:77
+msgid "Set the default risk level for the api."
+msgstr "Set the default risk level for the api."
+
+#: includes/settings-upg.php:80
+msgid "Trusted Risk Class"
+msgstr "Trusted Risk Class"
+
+#: includes/settings-upg.php:81
+msgid "Default Risk Class"
+msgstr "Default Risk Class"
+
+#: includes/settings-upg.php:82
+msgid "High Risk Class"
+msgstr ""
+
+#: includes/settings-upg.php:86
+msgid "Default Locale"
+msgstr "Default Locale"
+
+#: includes/settings-upg.php:89
+msgid "Set the defualt locale if customer locale can not be determined."
+msgstr "Set the defualt locale if customer locale can not be determined."
+
+#: includes/settings-upg.php:92
+msgid "English"
+msgstr "English"
+
+#: includes/settings-upg.php:93
+msgid "German"
+msgstr "German"
+
+#: includes/settings-upg.php:94
+msgid "French"
+msgstr "French"
+
+#: includes/settings-upg.php:95
+msgid "Spanish"
+msgstr "Spanish"
+
+#: includes/settings-upg.php:96
+msgid "Dutch"
+msgstr "Dutch"
+
+#: includes/settings-upg.php:97
+msgid "Italian"
+msgstr "Italian"
+
+#: includes/settings-upg.php:98
+msgid "Finnish"
+msgstr "Finnish"
+
+#: includes/settings-upg.php:99
+msgid "Portuguese"
+msgstr "Portuguese"
+
+#: includes/settings-upg.php:100
+msgid "Russian"
+msgstr "Russian"
+
+#: includes/settings-upg.php:101
+msgid "Turkish"
+msgstr "Turkish"
+
+#: includes/settings-upg.php:105 includes/settings-upg.php:107
+msgid "Merchant ID"
+msgstr "Merchant ID"
+
+#: includes/settings-upg.php:113
+msgid "Password"
+msgstr "Password"
+
+#: includes/settings-upg.php:115
+msgid "Password sent by upg"
+msgstr "Password sent by upg"
+
+#: includes/settings-upg.php:121 includes/settings-upg.php:123
+msgid "Store ID"
+msgstr "Store ID"
+
+#: includes/settings-upg.php:129
+msgid "B2B Settings"
+msgstr "B2B Settings"
+
+#: includes/settings-upg.php:136
+msgid "B2B Enable"
+msgstr "B2B Enable"
+
+#: includes/settings-upg.php:138
+msgid "if B2B settings are filled in"
+msgstr "if B2B settings are filled in"
+
+#: includes/settings-upg.php:141
+msgid "Callback URL"
+msgstr "Callback URL"
+
+#: includes/settings-upg.php:146
+msgid "MNS URL"
+msgstr "MNS URL"
+
+#: includes/settings-upg.php:151
+msgid "MNS Cron URL"
+msgstr "MNS Cron URL"
+
+#: includes/settings-upg.php:156
+msgid "Order Status Settings"
+msgstr "Order Status Settings"
+
+#: includes/settings-upg.php:161
+msgid "Return success status"
+msgstr "Return success status"
+
+#: includes/settings-upg.php:165
+msgid ""
+"Once Payco returns to the site after successful processing what to set the "
+"order status to"
+msgstr ""
+"Once Payco returns to the site after successful processing what to set the "
+"order status to"
+
+#: includes/settings-upg.php:170
+msgid "Return failure status"
+msgstr "Return failure status"
+
+#: includes/settings-upg.php:174
+msgid "Once Payco returns to the site after failing to process the order"
+msgstr "Once Payco returns to the site after failing to process the order"
+
+#: includes/settings-upg.php:179
+msgid "MNS PAID"
+msgstr "MNS PAID"
+
+#: includes/settings-upg.php:183
+msgid "For MNS paid messages what to set the order status to"
+msgstr "For MNS paid messages what to set the order status to"
+
+#: includes/settings-upg.php:188
+msgid "MNS PAYPENDING"
+msgstr "MNS PAYPENDING"
+
+#: includes/settings-upg.php:192
+msgid "For MNS paid pending reserve messages what to set the order status to"
+msgstr "For MNS paid pending reserve messages what to set the order status to"
+
+#: includes/settings-upg.php:197
+msgid "MNS PAYMENTFAILED"
+msgstr "MNS PAYMENTFAILED"
+
+#: includes/settings-upg.php:201 includes/settings-upg.php:210
+#: includes/settings-upg.php:219
+msgid "For MNS payment failed messages what to set the order status to"
+msgstr "For MNS payment failed messages what to set the order status to"
+
+#: includes/settings-upg.php:206
+msgid "MNS CHARGEBACK"
+msgstr "MNS CHARGEBACK"
+
+#: includes/settings-upg.php:215
+msgid "MNS CLEARED"
+msgstr "MNS CLEARED"
+
+#: includes/settings-upg.php:224
+msgid "MNS INDUNNING"
+msgstr "MNS INDUNNING"
+
+#: includes/settings-upg.php:228
+msgid "For MNS in dunning"
+msgstr "For MNS in dunning"
+
+#: includes/settings-upg.php:233
+msgid "MNS ACKNOWLEDGEPENDING"
+msgstr "MNS ACKNOWLEDGEPENDING"
+
+#: includes/settings-upg.php:237 includes/settings-upg.php:291
+msgid "For MNS Acknowledge Pending messages"
+msgstr "For MNS Acknowledge Pending messages"
+
+#: includes/settings-upg.php:242
+msgid "MNS FRAUDPENDING"
+msgstr "MNS FRAUDPENDING"
+
+#: includes/settings-upg.php:246
+msgid "For MNS Fraud Pending messages"
+msgstr "For MNS Fraud Pending messages"
+
+#: includes/settings-upg.php:251
+msgid "MNS FRAUDCANCELLED"
+msgstr "MNS FRAUDCANCELLED"
+
+#: includes/settings-upg.php:255
+msgid "For MNS Fraud Cancelled messages"
+msgstr "For MNS Fraud Cancelled messages"
+
+#: includes/settings-upg.php:260
+msgid "MNS CIAPENDING"
+msgstr "MNS CIAPENDING"
+
+#: includes/settings-upg.php:264
+msgid "For MNS cash in Advance Pending messages"
+msgstr "For MNS cash in Advance Pending messages"
+
+#: includes/settings-upg.php:269
+msgid "MNS CANCELLED / EXPIRED"
+msgstr "MNS CANCELLED / EXPIRED"
+
+#: includes/settings-upg.php:273
+msgid "For MNS Transaction Cancelled status"
+msgstr "For MNS Transaction Cancelled status"
+
+#: includes/settings-upg.php:278
+msgid "MNS MERCHANTPENDING"
+msgstr "MNS MERCHANTPENDING"
+
+#: includes/settings-upg.php:282
+msgid "For MNS Merchant Pending messages"
+msgstr "For MNS Merchant Pending messages"
+
+#: includes/settings-upg.php:287
+msgid "MNS INPROGRESS"
+msgstr "MNS INPROGRESS"
+
+#: includes/settings-upg.php:296
+msgid "MNS DONE"
+msgstr "MNS DONE"
+
+#: includes/settings-upg.php:300
+msgid "For MNS done messages order status"
+msgstr "For MNS done messages order status"
+
+#: upg.php:44
+#, php-format
+msgid "Could not activate plugin %s"
+msgstr "Could not activate plugin %s"
+
+#: upg.php:67 upg.php:133
+msgid "Payment Chargeback"
+msgstr "Payment Chargeback"
+
+#: upg.php:76 upg.php:134
+msgid "Payment Cleared"
+msgstr "Payment Cleared"
+
+#: upg.php:85 upg.php:135
+msgid "In Dunning"
+msgstr "In Dunning"
+
+#: upg.php:94 upg.php:136
+msgid "Merchant Feedback Pending"
+msgstr "Merchant Feedback Pending"
+
+#: upg.php:103 upg.php:137
+msgid "Fraud Check Pending"
+msgstr "Fraud Check Pending"
+
+#: upg.php:112 upg.php:138
+msgid "Fraud Cancelled"
+msgstr "Fraud Cancelled"
+
+#: upg.php:121 upg.php:139
+msgid "Cash in Advance Pending"
+msgstr "Cash in Advance Pending"
+
+#~ msgid ""
+#~ "Unable to do B2B transaction as no company registration id was provided"
+#~ msgstr ""
+#~ "Unable to do B2B transaction as no company registration id was provided"
+
+#~ msgid "High Default Class"
+#~ msgstr "High Default Class"
+
+#~ msgid "MNS Paid"
+#~ msgstr "MNS Paid"
+
+#~ msgid "MNS Paid Reserve"
+#~ msgstr "MNS Paid Reserve"
+
+#~ msgid "For MNS paid reserve messages what to set the order status to"
+#~ msgstr "For MNS paid reserve messages what to set the order status to"
+
+#~ msgid "MNS Paid Pending Reserve"
+#~ msgstr "MNS Paid Pending Reserve"
+
+#~ msgid "MNS Payment fail"
+#~ msgstr "MNS Payment fail"
+
+#~ msgid "MNS Payment Chargeback"
+#~ msgstr "MNS Payment Chargeback"
+
+#~ msgid "MNS Payment Cleared"
+#~ msgstr "MNS Payment Cleared"
+
+#~ msgid "MNS In Dunning"
+#~ msgstr "MNS In Dunning"
+
+#~ msgid "MNS Acknowledge Pending"
+#~ msgstr "MNS Acknowledge Pending"
+
+#~ msgid "MNS Fraud Pending"
+#~ msgstr "MNS Fraud Pending"
+
+#~ msgid "MNS Fraud Cancelled"
+#~ msgstr "MNS Fraud Cancelled"
+
+#~ msgid "MNS Cash in Advance Pending"
+#~ msgstr "MNS Cash in Advance Pending"
+
+#~ msgid "MNS Transaction Cancelled messages status"
+#~ msgstr "MNS Transaction Cancelled messages status"
+
+#~ msgid "MNS Transaction expired messages status"
+#~ msgstr "MNS Transaction expired messages status"
+
+#~ msgid "For MNS Transaction expired messages status"
+#~ msgstr "For MNS Transaction expired messages status"
+
+#~ msgid "MNS Merchant Pending"
+#~ msgstr "MNS Merchant Pending"
+
+#~ msgid "MNS Transaction In Progress"
+#~ msgstr "MNS Transaction In Progress"
+
+#~ msgid "MNS Transaction Dine"
+#~ msgstr "MNS Transaction Dine"
+
+#~ msgid "Finish request sent"
+#~ msgstr "Finish request sent"
+
+#~ msgid "UPG Payment Captures"
+#~ msgstr "UPG Payment Captures"
+
+#~ msgid "UPG Payment Refunds"
+#~ msgstr "UPG Payment Refunds"
+
+#~ msgid "Enable UPG Hosted"
+#~ msgstr "Enable UPG Hosted"

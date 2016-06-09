@@ -1,0 +1,17 @@
+[
+  {
+    "paymentInstrumentType": "CREDITCARD",
+    "accountHolder": "Keyshawn Sawayn",
+    "number": "5572314355479157",
+    "validity": "2015-11",
+    "issuer": "MC",
+    "paymentInstrumentID": 1
+  },
+  {
+    "paymentInstrumentType": "BANKACCOUNT",
+    "accountHolder": "Dr. Edwardo Nitzsche III",
+    "iban": "FI1350001540000056",
+    "bic": "OKOYFIHH",
+    "paymentInstrumentID": 2
+  }
+]
