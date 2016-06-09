@@ -31,7 +31,7 @@ You are also able to handle both b2b and b2c customers. This module will cover t
 Contents
 =================================================
 .. toctree::
-:maxdepth: 2
+    :maxdepth: 2
 
                  Installation <installation>
                  Configuration <configuration>
