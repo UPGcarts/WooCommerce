@@ -10,9 +10,4 @@ With this single module you are able to potentially offer the following payment 
 * Pay in Advance
 * iDEAL
 
-You are also able to handle both b2b and b2c customers. This module will cover the following topics:
-
-* Installation and Requirements
-* Configuration
-* Basic usage covering captures, refunds etc
-* Notes on what templates are overwritten in the module and if what customisations may be required if the overwrites do not work
+Please view the documentation at http://woocommerce.readthedocs.io/en/latest/
