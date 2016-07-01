@@ -28,7 +28,7 @@ class Amount extends AbstractObject
 
     public function __construct($amount = 0, $vatAmount = 0, $vatRate = 0)
     {
-        if ($amount > 0) {
+        if ($amount >= 0) {
             $this->setAmount($amount);
             $this->setVatAmount($vatAmount);
             $this->setVatRate($vatRate);

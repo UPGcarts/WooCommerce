@@ -35,7 +35,7 @@ The fields for the config that must be provided are:
  * ['defaultRiskClass'] *string* Default risk class
  * ['defaultLocale'] *string* Default locale (see [Supported Languages](http://documentation.upgplc.com/hostedpagesdraft/en/topic/supported-languages))
  * ['sendRequestsWithSalt'] *bool* Automatically add salt to requests. In live this should be set to true and not false. However, for testing this can be false. By default this will be true if not specified.
- * ['baseUrl'] *string* Base URL of requests that should contain either https://www.payco-sandbox.de/2.0 or https://www.pay-co.net/2.0
+ * ['baseUrl'] *string* Base URL of requests that should contain either https://sandbox.upgplc.com/2.0 or https://www.pay-co.net/2.0
 
 #### Log Levels
 When referencing log levels be sure to use the Psr\Log\LogLevel static constants

@@ -182,12 +182,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/UPGcarts/clientlibrary.git",
-            "reference": "6ce43f21dad44c39845c457681f1a71482ae0c9c"
+            "reference": "93d21458d7d546eb88ad4cc0352b35217c69f9bb"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/UPGcarts/clientlibrary/zipball/6ce43f21dad44c39845c457681f1a71482ae0c9c",
-            "reference": "6ce43f21dad44c39845c457681f1a71482ae0c9c",
+            "url": "https://api.github.com/repos/UPGcarts/clientlibrary/zipball/93d21458d7d546eb88ad4cc0352b35217c69f9bb",
+            "reference": "93d21458d7d546eb88ad4cc0352b35217c69f9bb",
             "shasum": ""
         },
         "require": {
@@ -200,7 +200,7 @@
             "johnkary/phpunit-speedtrap": "1.0",
             "phpunit/phpunit": "~4.6"
         },
-        "time": "2016-06-03 10:28:00",
+        "time": "2016-07-01 07:58:14",
         "type": "library",
         "installation-source": "dist",
         "autoload": {

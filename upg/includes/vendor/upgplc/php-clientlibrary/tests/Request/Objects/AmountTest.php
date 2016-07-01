@@ -25,20 +25,6 @@ class AmountTest extends \PHPUnit_Framework_TestCase
         $amount = new Amount();
 
         $validation = new Validation();
-        $validation->getValidator($amount);
-        $data = $validation->performValidation();
-
-        $expected = array(
-            'Upg\\Library\\Request\\Objects\\Amount' =>
-                array(
-                    'amount' =>
-                        array(
-                            0 => 'Amount is required',
-                        ),
-                ),
-        );
-
-        $this->assertEquals($expected, $data, 'Validation not triggered the amount required');
 
         /** test the invalid amount logic */
         $amount->setAmount(99999999999999999);
