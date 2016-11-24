@@ -20,7 +20,7 @@ class Address extends AbstractObject
     /**
      * @var string Alpha numerical string with the house number name no more than 32 character
      */
-    private $no = '0000';
+    private $no;
 
     /**
      * @var string Alpha numerical string with the zip/postal code no more than 16 character
@@ -203,7 +203,6 @@ class Address extends AbstractObject
             'message' => "Street must be between 1 and 80 characters"
         );
 
-        $validationData['no'][] = array('name' => 'required', 'value' => null, 'message' => "House number is required");
         $validationData['no'][] = array(
             'name' => 'Regex',
             'value' => Regex::REGEX_FULL_ALPHANUMERIC,
